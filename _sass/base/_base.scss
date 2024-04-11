@@ -1,0 +1,48 @@
+html {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  -webkit-overflow-scrolling: touch;
+    margin: 0;
+  padding: 0;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+//sticky footer
+.site {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.site__content {
+  flex: 1;
+
+  &.page {
+    background-color: $light-bg-color;
+  }
+}
+
+// responsive images
+img {
+  max-width: 100%;
+  height: auto;
+  width: auto;
+  vertical-align: middle;
+}
+
+img::selection {
+  background: transparent;
+}
+
+figure {
+  margin: 0;
+}

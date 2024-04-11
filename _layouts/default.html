@@ -1,0 +1,117 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en-US' }}">
+
+  {% include head.html %}
+
+  <body class="site">
+
+    {% if site.google_tag_manager %}
+
+      <!-- Google Tag Manager (noscript) -->
+<!--       <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.google_tag_manager }}"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> -->
+      <!-- End Google Tag Manager (noscript) -->
+
+    {% endif %}
+
+    {% include header.html %}
+
+    <!-- HERO BANNER -->
+    <div class="hero lazyload" data-bg="{{ site.url }}{{ site.baseurl }}/assets/img/heros/{{ site.hero_img }}">
+      <div class="hero__wrap">
+        <!-- <img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.logo_img }}" style="width:40%"> -->
+        <h1 class="hero__title">{{ site.title | escape }}</h1>
+        <h2 class="hero__subtitle">Politics × (AI + Data Science)</h2>
+        <h2 class="hero__subtitle">University of North Carolina at Charlotte</h2>
+        <!-- <p class="hero__meta">{{ site.tagline }}</p> -->
+      </div>
+    </div>
+
+    <main class="site__content">
+
+      <section class="blog">
+        <div class="container">
+          <div class="page-content default" style="font-size:1.5em; font-weight:200">
+              The <b>Politics, AI, and Data Science Lab</b> applies machine learning and statistical techniques to the study of politics, especially in the areas of conflict, propaganda, populism, misinformation, and cybersecurity.
+          </div>
+        <hr class="center-diamond">
+
+<!--           <div class="post-list">
+            {% for author in site.authors %}
+            {% if author.username == '0ydai' or author.username == '0bradford' %}
+            <div class="author-card">
+              <center>
+              <div style="min-width:250px; min-height:250px; max-width:250px; max-height:250px; border-radius:50%; overflow:hidden; background-color:black">
+                <img src="{{ author.headshot }}" style="width:100%; margin:0; padding:0">
+              </div><br>
+               <h3>{{ author.name }}</h3>
+               {{ author.title }}, {{ author.institution }} <br>
+                {% if author.homepage %}
+                  <a href="{{ author.homepage }}" class="label onwhite">Homepage</a> <a href="{{ author.github }}" class="label onwhite">Github</a> <br>
+                {% endif %}
+            </center>
+            </div>
+            {% endif %}
+            {% endfor %}
+          </div>
+
+
+        <hr class="center-diamond"> -->
+
+          <div class="post-list" style="justify-content: center" itemscope="" itemtype="http://schema.org/Blog">
+
+            {% for author in site.authors %}
+            {% if author.username == 'ydai' or author.username == 'bradford' %}
+            <div class="author-card">
+              <center>
+              <div style="min-width:250px; min-height:250px; max-width:250px; max-height:250px; border-radius:50%; overflow:hidden; background-color:black">
+                <img src="{{ author.headshot }}" style="width:100%; margin:0; padding:0">
+              </div><br>
+               <h3>{{ author.name }}</h3>
+               {{ author.title }}, {{ author.institution }} <br>
+                {% if author.homepage %}
+                  <a href="{{ author.homepage }}" class="label onwhite">Homepage</a> <a href="{{ author.github }}" class="label onwhite">Github</a> <br>
+                {% endif %}
+              </center>
+            </div>
+            {% endif %}
+            {% endfor %}
+
+            <div class="author-card">
+              <center>
+              <div style="min-width:250px; min-height:250px; max-width:250px; max-height:250px; border-radius:50%; overflow:hidden; background-color:black">
+                <img src="/assets/img/pandas-headshot-02.jpeg" style="width:100%; margin:0; padding:0">
+              </div><br>
+               <h3><a href="/about/#our-team">PANDAS Team</a></h3> <br>
+                  <a href="/join.html" class="label highlight">Join</a> <a href="/about/#our-team" class="label onwhite">Current Members</a> <br>
+              </center>
+            </div>
+
+          </div>
+
+          <hr class="center-diamond">
+
+          <div class="post-list">
+
+            {% for post in site.categories.featured %}
+              {% include card.html %}
+            {% endfor %}
+
+            {% for post in site.categories.blog %}
+              {% include card.html %}
+            {% endfor %}
+
+            <!-- {% include pagination.html %} -->
+          </div>
+        </div>
+      </section>
+    </main>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

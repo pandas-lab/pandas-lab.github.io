@@ -1,0 +1,43 @@
+---
+layout: page
+title: "Join PANDAS Lab"
+subtitle: "Politics × (AI + Data Science)<br>University of North Carolina at Charlotte"
+featured-img: panda-03.jpeg
+tags: []
+---
+
+PANDAS Lab is thrilled to work with motivated undergraduate and graduate students on our research projects. 
+While funding is limited and not generally available, we are happy to offer **co-authorship opportunities**
+and **research experience** working on cutting edge science.
+
+PANDAS Lab is located in UNC Charlotte's Department of Political Science and Public Administration, 
+but we are privileged to work with collaborators from around the world. 
+
+If you are interested in collaborating with our lab, reach out to us by
+<a href="mailto:bradfor7+pandas@charlotte.edu">email</a> or contact us [here]({% link contact.md %}).
+
+# FAQ
+
+#### Q: Do I need to be a UNC Charlotte student to join?
+
+We work with undergraduate and graduate students from UNC Charlotte. In certain circumstances, we may work with graduate students currently enrolled in other universities.
+
+#### Q: What skills is the lab looking for?
+
+Our lab is focused on quantitative and computational research. While prior experience is not required, students considering joining PANDAS should have an interest in machine learning, statistics, algorithms, or related topics. Our work relies heavily on computer programming, typically in R and Python.
+
+#### Q: I am interested in joining the lab but am not a student. Can I apply directly?
+
+Unfortunately, PANDAS cannot accept direct applications for enrollment. Prospective students should apply to the appropriate department or program in UNC Charlotte, including (e.g.,) the Public Policy Ph.D. Program.
+
+#### Q: Does PANDAS offer funding for paid assistanceships?
+
+PANDAS does not generally have funding and does not accept direct applications for funded research opportunities. Students involved with PANDAS Lab and seeking funding should speak directly with the Lab's PIs about available or prospective funding sources.
+
+#### Q: What substantive areas does PANDAS specialize in?
+
+PANDAS PIs specialize in international relations, political violence, comparative politics, authoritarianism, and cybsersecurity. See our [ongoing projects]().
+
+#### Q: Does PANDAS accept gifts or financial support?
+
+Yes! PANDAS Lab does important research with global reach on a shoestring budget. We appreciate donations of all sizes; our team can always use an additional cup of coffee. See [here]() or [contact us directly](/contact).

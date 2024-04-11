@@ -1,0 +1,45 @@
+.label {
+  padding: 0px 10px;
+  margin-bottom: 0rem;
+  display: inline-block;
+  line-height: 20px;
+  font-size: .75rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: rgba(255,255,255,0.8);
+  border: 2px solid rgba(255,255,255,0.5);
+  border-radius: 100px;
+  transition: all 0.2s ease;
+  backdrop-filter: blur(100px) brightness(80%); 
+
+  &:focus,
+  &:hover {
+    color: $bg-color;
+    background-color: $primary;
+    border: 2px solid $primary;
+  }
+
+  &.featured {
+    color: $bg-color;
+    background-color: $secondary;
+    border: 2px solid $secondary;
+  }
+
+  &.onwhite {
+    color: $bg-color;
+    background-color: $grey;
+    border: 2px solid $grey;
+  }
+
+  &.highlight {
+    color: $bg-color;
+    background-color: $secondary-dark;
+    border: 2px solid $secondary-dark;
+  }
+
+  &.onwhite:hover, &.highlight:hover {
+    background-color: $primary;
+    border: 2px solid $primary;
+  }
+
+}

@@ -1,0 +1,20 @@
+{% if page.authors %}
+  {% assign authors = page.authors %}
+    <hr class="center-diamond">
+    <div class="callout">
+    <h2>PANDAS Researchers</h2><br>
+    {% for author in site.authors %}
+      {% if authors contains author.username %}
+        <b>{{ author.name }}.</b>
+        {{ author.title }}, {{ author.institution }}.
+        {% if author.homepage %}
+          [<a href="{{ author.homepage }}">Homepage</a>]  
+        {% endif %}
+        {% if author.github %}
+          [<a href="{{ author.github }}">Github</a>]  
+        {% endif %} <br>
+      {% endif %}
+    {% endfor %}<br>
+    Learn more about the <a href="/team">PANDAS Lab Team</a>.
+  </div>
+{% endif %}
