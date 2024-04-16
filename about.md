@@ -76,10 +76,6 @@ The Politics, AI, and Data Science Lab (PANDAS) is a research lab that applies m
 <!-- </div> -->
 
 
-# Contribute
-<iframe id='kofiframe' src='https://ko-fi.com/pandaslab/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='pandaslab'></iframe>
-
-
 # Acknowledgements  
 
 This website is compiled with [Jekyll](https://jekyllrb.com/) using a modified version of the [Sleek theme](https://github.com/janczizikow/sleek). Some of our images are produced with [Stable Diffusion XL](https://huggingface.co/papers/2307.01952). We use 
