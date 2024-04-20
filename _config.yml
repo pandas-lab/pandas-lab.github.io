@@ -80,6 +80,7 @@ sass:
     sass_dir: _sass
 
 scholar:
+  bibliography_template: bib
   sort_by: year
   order: descending
   bibtex_filters: 

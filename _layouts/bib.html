@@ -1,0 +1,11 @@
+---
+---
+
+{% if entry.url %}
+	<a href="{{ entry.url }}" class="label highlight">PDF</a>
+{% endif %} {{ reference }}
+
+<details>
+	<summary>BibTex Entry</summary>
+		<pre>{{ entry.bibtex }}</pre>
+</details>

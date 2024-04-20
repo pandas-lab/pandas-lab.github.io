@@ -41,3 +41,27 @@ PANDAS PIs specialize in international relations, political violence, comparativ
 #### Q: Does PANDAS accept gifts or financial support?
 
 Yes! PANDAS Lab does important research with global reach on a shoestring budget. We appreciate donations of all sizes; our team can always use an additional cup of coffee. See [here]() or [contact us directly](/contact).
+
+# Join Us!
+
+Coming soon...
+
+<!-- <form action="https://formspree.io/f/xpzvkaey" method="POST">
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+  <label for="vehicle1"> Political violence, conflict, and war</label><br>
+  <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
+  <label for="vehicle2"> Populism, information manipulation, authoritarianism</label><br>
+  <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
+  <label for="vehicle3"> Statistics</label><br>
+  <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
+  <label for="vehicle3"> Machine learning</label><br>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <button type="submit">Send</button>
+</form> -->
