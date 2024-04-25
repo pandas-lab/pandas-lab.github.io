@@ -6,7 +6,13 @@ authors: [bradford]
 tags: [machine learning,protest]
 ---
 
-In a working paper presented to UNC Charlotte's School of Data Science, Dr. Radford evaluates the predictive power of prior protest events to forecast subsequent policing actions. Below are videos of predicted probabilities 
+In a working paper presented to UNC Charlotte's School of Data Science, Dr. Radford evaluates the predictive power of prior protest events to forecast subsequent policing actions. Below are videos of predicted probabilities.
+
+## The Poster
+
+![SDS Poster 2024](/assets/img/posts/SDS_2024_poster_small.png)
+
+<a href="/assets/img/posts/SDS_2024_poster_small.png"> Full size image.</a>
 
 ## Police Presence Predictions
 
