@@ -8,7 +8,7 @@ permalink: /about/
 
 # PANDAS Lab
 
-The Politics, AI, and Data Science Lab (PANDAS) is a research lab that applies machine learning and statistical techniques to the study of politics, especially in areas of conflict, propaganda, misinformation, and cybersecurity. PANDAS is housed within UNC Charlotte's Department of Political Science and Public Administration. We work with students from across the University and beyond. Learn how to [join our team](/join.html).
+The Politics, AI, and Data Science Lab (PANDAS) is a research lab that applies machine learning and statistical techniques to the study of politics, especially in areas of conflict, propaganda, misinformation, and cybersecurity. PANDAS is neither sponsored by nor affiliated with a university. We work with students from multiple universities. Learn how to [join our team](/join.html).
 
 # Current Research Projects
 
