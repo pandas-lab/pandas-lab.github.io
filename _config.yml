@@ -2,8 +2,7 @@
 title: PANDAS Lab # your site title
 author: Benjamin J. Radford # You :P
 description: > # Meta description of Homepage
-  PANDAS Lab: Politics, AI, and Data Science at the University 
-  of North Carolina Charlotte. This research lab is run by 
+  PANDAS Lab: Politics, AI, and Data Science. This research lab is run by 
   professors Benjamin J. Radford and Yaoyao Dai.
 #baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pandas-lab.github.io/" # the base hostname & protocol for your site, e.g. http://example.com

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-subtitle: "Politics × (AI + Data Science)<br>University of North Carolina at Charlotte"
+subtitle: "Politics, AI, &amp; Data Science"
 featured-img: papers-01.jpeg
 permalink: /publications/
 ---

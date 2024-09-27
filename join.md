@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Join PANDAS Lab"
-subtitle: "Politics × (AI + Data Science)<br>University of North Carolina at Charlotte"
+subtitle: "Politics, AI, &amp; Data Science"
 featured-img: panda-03.jpeg
 tags: []
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact PANDAS Lab
-subtitle: "Politics × (AI + Data Science)<br>University of North Carolina at Charlotte"
+subtitle: "Politics, AI, &amp; Data Science"
 featured-img: panda-04.jpeg
 permalink: /contact/
 ---
