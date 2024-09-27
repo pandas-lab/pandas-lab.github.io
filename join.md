@@ -10,8 +10,7 @@ PANDAS Lab is thrilled to work with motivated undergraduate and graduate student
 While funding is limited and not generally available, we are happy to offer **co-authorship opportunities**
 and **research experience** working on cutting edge science.
 
-PANDAS Lab is located in UNC Charlotte's Department of Political Science and Public Administration, 
-but we are privileged to work with collaborators from around the world. 
+While our PANDAS Lab principal investigators are currently professors in UNC Charlotte's Department of Political Science and Public Administration, we are privileged to work with collaborators from around the world. 
 
 If you are interested in collaborating with our lab, reach out to us by
 <a href="mailto:bradfor7+pandas@charlotte.edu">email</a> or contact us [here]({% link contact.md %}).
@@ -26,9 +25,6 @@ We work with undergraduate and graduate students from UNC Charlotte. In certain 
 
 Our lab is focused on quantitative and computational research. While prior experience is not required, students considering joining PANDAS should have an interest in machine learning, statistics, algorithms, or related topics. Our work relies heavily on computer programming, typically in R and Python.
 
-#### Q: I am interested in joining the lab but am not a student. Can I apply directly?
-
-Unfortunately, PANDAS cannot accept direct applications for enrollment. Prospective students should apply to the appropriate department or program in UNC Charlotte, including (e.g.,) the Public Policy Ph.D. Program.
 
 #### Q: Does PANDAS offer funding for paid assistanceships?
 
