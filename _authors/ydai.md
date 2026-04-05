@@ -5,7 +5,7 @@ name: "Yaoyao Dai"
 headshot: /assets/img/dai-headshot.jpg
 role: PI
 title: "Assistant Professor"
-institution: "UNC Charlotte"
+institution: “University of Pittsburgh"
 homepage: "https://yaoyaodai.github.io"
 github: "https://www.github.com/yaoyaodai"
 ---

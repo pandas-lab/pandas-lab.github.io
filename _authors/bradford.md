@@ -5,7 +5,7 @@ name: "Benjamin J. Radford"
 headshot: /assets/img/radford-headshot.jpg
 role: PI
 title: "Assistant Professor"
-institution: "UNC Charlotte"
+institution: “University of Pittsburgh"
 homepage: "https://www.benradford.com"
 github: "https://www.github.com/benradford"
 ---
